@@ -1,0 +1,6 @@
+export const GET_ROULETTE_DATA = 'GET_ROULETTE_DATA';
+export const SET_ROULETTE_DATA = 'SET_ROULETTE_DATA';
+export const SET_ROULETTE_ERROR = 'SET_ROULETTE_ERROR';
+
+export const BET_RED = 'BET_RED';
+export const BET_BLACK = 'BET_BLACK';
