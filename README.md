@@ -1,4 +1,4 @@
-# Roulette Wolf.bet
+# Roulette
 
 ## Getting started
 
